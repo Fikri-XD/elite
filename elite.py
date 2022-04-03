@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python
 # coding=utf-8
 # Author : Muhammad Syafii
 # JANGAN KEK ANAK SEBELAH YA HIDUPNYA CUMA RECOD TAPI DI JUAL !!
